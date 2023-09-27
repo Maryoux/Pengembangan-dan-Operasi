@@ -1,5 +1,4 @@
-# Xuxu Bot
+# DevOPS
 
-A **Discord** bot that help me to manage my server
-
+Sebuah tugas kuliah yang telah dibuat
 
